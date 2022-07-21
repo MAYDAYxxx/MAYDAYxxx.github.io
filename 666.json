@@ -1,6 +1,6 @@
 {
-  "spider":"http://ys-e.ysepan.com/621595729/713077253/SLuVfJp873J636G2LPHI90/666.jar",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9vZC5say9zL016aGZNVEk1T1RZd05qRmYvNjY2LnR4dA="]}]}],
+  "spider":"https://maydayxxx.github.io/666.jar",
+  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=aHR0cHM6Ly9tYXlkYXl4eHguZ2l0aHViLmlvLzY2Ni50eHQ="]}]}],
 
   "sites":[
     {"key":"Gitcafe","name":"🦊小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"1f373a68733e4dafa5fa28dca9826b35"},
