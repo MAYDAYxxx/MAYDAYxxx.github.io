@@ -1,6 +1,4 @@
 # HI！
-[高标准农田建设通则](https://maydayxxx.github.io/%E9%AB%98%E6%A0%87%E5%87%86%E5%86%9C%E7%94%B0%E5%BB%BA%E8%AE%BE%E9%80%9A%E5%88%99%20GBT30600-2022.pdf)
-
 You can use the [editor on GitHub](https://github.com/MAYDAYxxx/MAYDAYxxx.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
