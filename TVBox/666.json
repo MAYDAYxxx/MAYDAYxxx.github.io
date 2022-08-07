@@ -49,7 +49,7 @@
     {"key": "Lib","name": "🥇Libvio(SP)","type": 3,"api": "csp_Lib","searchable": 0,"quickSearch": 1,"filterable": 1},
     {"key":"csp_Nbys","name":"🚧泥巴(跨栏)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"If101","name":"🚧If101(跨栏)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
-      {
+    {
 		"key": "AliPS",
 		"name": "🐞盘搜",
 		"type": 3,
@@ -57,7 +57,8 @@
 		"searchable": 1,
 		"quickSearch": 1,
 		"filterable": 1
-	}, {
+	}, 
+    {
 		"key": "Gitcafe",
 		"name": "🐞小纸条",
 		"type": 3,
@@ -67,7 +68,7 @@
 		"filterable": 1,
 		"ext": "dcbc975ad0684eb5a498ecd1836272e6"
 	}, 
-        {
+     {
       "key": "Bili",
       "name": "🥇B站",
       "type": 3,
