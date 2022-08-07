@@ -3,6 +3,8 @@
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tYXlkYXl4eHguZ2l0aHViLmlvL1RWQm94LzY2Ni50eHQ="]}]}],
 
   "sites":[
+    {"key":"csp_Nbys","name":"🚧泥巴(跨栏)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"If101","name":"🚧If101(跨栏)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
     {
 		"key": "KanSJ_spider",
 		"name": "🐞看视界",
