@@ -6,6 +6,15 @@
     {"key":"csp_Nbys","name":"🚧泥巴(跨栏)","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
     {"key":"If101","name":"🚧If101(跨栏)","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
     {
+      "key": "Nfyun",
+      "name": "🐞Nf云",
+      "type": 3,
+      "api": "csp_Nfyun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
 		"key": "KanSJ_spider",
 		"name": "🐞看视界",
 		"api": "csp_KanSJ",
