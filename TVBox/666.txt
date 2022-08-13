@@ -131,7 +131,7 @@ SPOTVLIVE,http://liuy.usa7.20212021.ga/ns.php?id=16
 1緯來育力ᴴᴰ,rtmp://59.124.75.138/sat/tv701
 1偉來體育ᴴᴰ,rtmp://59.124.75.138/sat/tv721
 1ELEVEN1體育,rtmp://59.124.75.138/sat/tv731
-1ELEVEN2休育,rtmp://59.124.75.138/sat/tv741
+1ELEVEN2體育,rtmp://59.124.75.138/sat/tv741
 1MoMo綜合台,rtmp://59.124.75.138/sat/tv761
 1東森超視ᴴᴰ,rtmp://59.124.75.138/sat/tv331
 1緯來日本ᴴᴰ,rtmp://59.124.75.138/sat/tv771
