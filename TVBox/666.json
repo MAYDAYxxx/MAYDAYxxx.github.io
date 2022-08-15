@@ -16,15 +16,7 @@
 	{"key": "追剧喵","name": "🐞追剧喵","type": 3,"api": "csp_ZJMiao","searchable": 1,"quickSearch": 1,"filterable": 1}, 
 	{"key": "Ekan_spider","name": "🐞Ekan","api": "csp_Ekan","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
 	{"key": "快看影视","name": "🐞快看影视","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
-	{
-		"key": "3EDY",
-		"name": "🐞3EDY(EXO)",
-		"type": 3,
-		"api": "csp_EEEDY",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	},
+	{"key": "3EDY","name": "🐞3EDY(EXO)","type": 3,"api": "csp_EEEDY","searchable": 1,"quickSearch": 1,"filterable": 1},
 	{
 		"key": "csp_hbys",
 		"name": "🐞简影",
