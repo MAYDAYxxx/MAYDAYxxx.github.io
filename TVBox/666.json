@@ -21,119 +21,146 @@
     {"key": "csp_Wmkk","name": "🐞完美看看","api": "csp_Wmkk","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1},
     {"key": "csp_77","name": "🐞酷云七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1},
     {
-		"key": "360_spider",
-		"name": "🐞360影视",
-		"api": "csp_SP360",
-		"type": 3,
-		"filterable": 1,
-		"quickSearch": 1,
-		"searchable": 1,
-		"ext": ""
-	}, 
-	{
-		"key": "csp_LibVio",
-		"name": "🐞LibVio",
-		"type": 3,
-		"api": "csp_Lib",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0
-	}, 
-	{
-		"key": "csp_Auete",
-		"name": "🐞Auete",
-		"type": 3,
-		"api": "csp_Auete",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, 
-	{
-		"key": "csp_Cokemv",
-		"name": "🐞Cokemv",
-		"type": 3,
-		"api": "csp_Cokemv",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	},
-	{
-		"key": "在线之家",
-		"name": "🐞在线之家",
-		"type": 3,
-		"api": "csp_Zxzj",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	}, 
-	{
-		"key": "csp_BBB",
-		"name": "🐞哔哩哔哩",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"
-	},
-	{
-		"key": "AliPS",
-		"name": "🐞盘搜",
-		"type": 3,
-		"api": "csp_AliPanSou",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "27b06d5221a24199b15f2e573d847430"
-	},
-	{
-		"key": "Gitcafe",
-		"name": "🐞小纸条",
-		"type": 3,
-		"api": "csp_GitCafe",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "27b06d5221a24199b15f2e573d847430"
-	}, 
-	{
-		"key": "FindZY",
-		"name": "🐞找资源",
-		"type": 3,
-		"api": "csp_FindZY",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
-		"ext": "27b06d5221a24199b15f2e573d847430"
-	},
-	{
-		"key": "push_agent",
-		"name": "🐞推送",
-		"type": 3,
-		"api": "csp_PushAgent",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "27b06d5221a24199b15f2e573d847430"
-	},
-	{
-		"key": "酷猫",
-		"name": "🐞酷猫",
-		"type": 3,
-		"api": "csp_Kmys",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1
-	},
-	{
-      "key": "Bili",
-      "name": "🥇B站",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://maydayxxx.github.io/TVBox/MaooXB/Bili.json"
+    "key": "360_spider",
+    "name": "🐞360影视",
+    "api": "csp_SP360",
+    "type": 3,
+    "filterable": 1,
+    "quickSearch": 1,
+    "searchable": 1,
+    "ext": ""
+    }, 
+    {
+    "key":"csp_MGTV",
+    "name":"芒果TV(SP)",
+    "type":3,
+    "api":"csp_MGTV",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
+    {
+    "key":"csp_QQ",
+    "name":"腾讯视频(SP)",
+    "type":3,
+    "api":"csp_QQ",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    },
+    {
+    "key":"爱奇艺",
+    "name":"爱奇艺(SP)",
+    "type":3,
+    "api":"csp_IQIYI",
+    "quickSearch":1,
+    "searchable":1,
+    "filterable":1
+    },
+    {
+    "key": "csp_LibVio",
+    "name": "🐞LibVio",
+    "type": 3,
+    "api": "csp_Lib",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
+    }, 
+    {
+    "key": "csp_Auete",
+    "name": "🐞Auete",
+    "type": 3,
+    "api": "csp_Auete",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    }, 
+    {
+    "key": "csp_Cokemv",
+    "name": "🐞Cokemv",
+    "type": 3,
+    "api": "csp_Cokemv",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    },
+    {
+    "key": "在线之家",
+    "name": "🐞在线之家",
+    "type": 3,
+    "api": "csp_Zxzj",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    }, 
+    {
+    "key": "csp_BBB",
+    "name": "🐞哔哩哔哩",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 1,
+    "ext": "https://gitea.com/qiaoji/jar/raw/branch/main/bili.json"
+    },
+    {
+    "key": "AliPS",
+    "name": "🐞盘搜",
+    "type": 3,
+    "api": "csp_AliPanSou",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "27b06d5221a24199b15f2e573d847430"
+    },
+    {
+    "key": "Gitcafe",
+    "name": "🐞小纸条",
+    "type": 3,
+    "api": "csp_GitCafe",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "27b06d5221a24199b15f2e573d847430"
+    }, 
+    {
+    "key": "FindZY",
+    "name": "🐞找资源",
+    "type": 3,
+    "api": "csp_FindZY",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "27b06d5221a24199b15f2e573d847430"
+    },
+    {
+    "key": "push_agent",
+    "name": "🐞推送",
+    "type": 3,
+    "api": "csp_PushAgent",
+    "searchable": 0,
+    "quickSearch": 0,
+    "filterable": 0,
+    "ext": "27b06d5221a24199b15f2e573d847430"
+    },
+    {
+    "key": "酷猫",
+    "name": "🐞酷猫",
+    "type": 3,
+    "api": "csp_Kmys",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    },
+    {
+    "key": "Bili",
+    "name": "🥇B站",
+    "type": 3,
+    "api": "csp_Bili",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://maydayxxx.github.io/TVBox/MaooXB/Bili.json"
     },
     {"key": "csp_Bliyc","name":"🥇演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blixs","name":"🥇相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
