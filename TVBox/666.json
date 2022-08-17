@@ -367,7 +367,8 @@
     {"key":"csp_biubiu_可乐影视","name":"可乐影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maydayxxx.github.io/TVBox/MaooXB/可乐影视.json"},
     {"key":"csp_biubiu_NO视频","name":"NO视频(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maydayxxx.github.io/TVBox/MaooXB/NO视频.json"},
     {"key":"csp_biubiu_HDmoli","name":"HDmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maydayxxx.github.io/TVBox/MaooXB/HDmoli.json"},
-    
+    {"key":"csp_biubiu_139影视","name":"139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://maydayxxx.github.io/TVBox/MaooXB/139影视.json"},
+      
     ## XPath系列
     {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maydayxxx.github.io/TVBox/MaooXP/zxzj2.json"},
     {"key":"csp_xpath_libv","name":"Libvio(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maydayxxx.github.io/TVBox/MaooXP/libv.json"},
