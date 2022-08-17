@@ -6,8 +6,8 @@
   "User": "空", 
   "shouye": "1",
 
-  "fenlei": "剧集$/vodshow/1--------#电影$/vodshow/2--------#动画$/vodshow/3--------#综艺$/vodshow/4--------#音乐$/vodshow/5--------#短片$/vodshow/6--------#其他$/vodshow/7--------", 
-  "houzhui": "/---/", 
+  "fenlei": "#电影$/movie/--------#动画$/anime/--------#综艺$/shows/--------#音乐$/music/--------#其他$/other/--------", 
+  "houzhui": "/", 
 
   "shifouercijiequ": "1", //截取的列表数组是否需要二次截取，0不需要，1需要
   "jiequqian": "class=\"module-items", //不需要二次截取就填空
