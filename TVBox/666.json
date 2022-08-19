@@ -39,8 +39,18 @@
     "filterable":1
     },
     {
+    "key": "bdys",
+    "name": "哔嘀(磁力测试)",
+    "type": 3,
+    "api": "csp_XPbd",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+	"ext": "https://gitea.com/Pandora2277/Box/raw/branch/master/sub/Bdys.json"
+    },
+    {
     "key": "Nfyun",
-    "name": "🐞Nf云",
+    "name": "Nf云",
     "type": 3,
     "api": "csp_Nfyun",
     "searchable": 1,
@@ -251,7 +261,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "27b06d5221a24199b15f2e573d847430"
+    "ext": "ad3c78559a494bde814f1a6c8c40db51"
     },
     {
     "key": "Gitcafe",
@@ -261,7 +271,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "27b06d5221a24199b15f2e573d847430"
+    "ext": "ad3c78559a494bde814f1a6c8c40db51"
     }, 
     {
     "key": "FindZY",
@@ -271,7 +281,7 @@
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 1,
-    "ext": "27b06d5221a24199b15f2e573d847430"
+    "ext": "ad3c78559a494bde814f1a6c8c40db51"
     },
     {
     "key": "push_agent",
@@ -281,7 +291,7 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 0,
-    "ext": "27b06d5221a24199b15f2e573d847430"
+    "ext": "ad3c78559a494bde814f1a6c8c40db51"
     },
     {
     "key": "酷猫",
@@ -307,9 +317,9 @@
     {"key": "csp_Blidw","name":"🥇动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blixq","name":"🥇戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
     
-    {"key":"FindZY","name":"🎲找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-    {"key":"AliPS","name":"🎲 盘  搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":""},
-    {"key": "push_agent","name":"🚀 推  送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":""},
+    {"key":"FindZY","name":"🎲找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
+    {"key":"AliPS","name":"🎲 盘  搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
+    {"key": "push_agent","name":"🚀 推  送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"ad3c78559a494bde814f1a6c8c40db51"},
     {"key":"考拉直链","name":"🎍考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maydayxxx.github.io/TVBox/MaooXP/huya2.json"},
     {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maydayxxx.github.io/TVBox/MaooXB/斗鱼.json"},
