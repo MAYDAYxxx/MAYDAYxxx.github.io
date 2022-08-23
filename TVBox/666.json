@@ -185,27 +185,21 @@
     "name":"芒果TV(SP)",
     "type":3,
     "api":"csp_MGTV",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
+    "jar":"https://maydayxxx.github.io/TVBox/MaooXP/mgtv.txt"
     },
     {
     "key":"csp_QQ",
     "name":"腾讯视频(SP)",
     "type":3,
     "api":"csp_QQ",
-    "searchable":1,
-    "quickSearch":1,
-    "filterable":1
+    "jar":"https://maydayxxx.github.io/TVBox/MaooXP/tx.txt"
     },
     {
     "key":"爱奇艺",
     "name":"爱奇艺(SP)",
     "type":3,
     "api":"csp_IQIYI",
-    "quickSearch":1,
-    "searchable":1,
-    "filterable":1
+    "jar":"https://maydayxxx.github.io/TVBox/MaooXP/iqiyi.txt"
     },
     {
     "key": "csp_LibVio",
