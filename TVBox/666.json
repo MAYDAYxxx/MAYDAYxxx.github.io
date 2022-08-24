@@ -258,6 +258,25 @@
     "filterable": 1,
     "ext": "https://maydayxxx.github.io/TVBox/MaooXB/Bili.json"
     },
+    "key": "csp_xpath_88kanqiu",
+      "name": "⚽88看球(XP)",
+      "type": 3,
+      "api": "csp_XPathMac",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/88kanqiu.json"
+    },
+    {
+      "key": "csp_xpath_qiumi",
+      "name": "🏀球迷(XPF)",
+      "type": 3,
+      "api": "csp_XPathFilter",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://cdn.jsdelivr.net/gh/YuanHsing/freed@master/TVBox/MaooXP/qiumi.json"
+    },
     {"key": "csp_Bliyc","name":"🥇演唱会","type": 3,"api": "csp_Bliyc","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blixs","name":"🥇相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blidw","name":"🥇动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
