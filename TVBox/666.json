@@ -179,28 +179,14 @@
     "quickSearch": 1,
     "searchable": 1,
     "ext": ""
-    }, 
-    {
-    "key":"csp_MGTV",
-    "name":"芒果TV(SP)",
-    "type":3,
-    "api":"csp_MGTV",
-    "jar":"https://maydayxxx.github.io/TVBox/MaooXP/mgtv.txt"
     },
-    {
-    "key":"csp_QQ",
-    "name":"腾讯视频(SP)",
-    "type":3,
-    "api":"csp_QQ",
-    "jar":"https://maydayxxx.github.io/TVBox/MaooXP/tx.txt"
-    },
-    {
-    "key":"爱奇艺",
-    "name":"爱奇艺(SP)",
-    "type":3,
-    "api":"csp_IQIYI",
-    "jar":"https://maydayxxx.github.io/TVBox/MaooXP/iqiyi.txt"
-    },
+    {"key":"ai","name":"🐨爱(解析)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1,"categories":["儿童","电视","电影","综艺","动漫","纪录","教育","游戏","资讯","娱乐","财经","网络","片花","音乐","军事","体育","旅游","时尚","生活","汽车","搞笑","广告",,"原创","母婴",,"科技","健康"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
+    {"key":"you","name":"🏀优(解析)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/youku/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","综艺","动漫","少儿","其他片","其他剧"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
+    {"key":"teng","name":"🐧腾(解析)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1,"categories":["少儿","电视剧","电影","动漫","纪录片","知识","学堂","综艺"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
+    {"key":"PPTV(官源)","name":"📺🏐PPTV(官源)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/pptv/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["动画片","国产剧","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","港台剧","综艺","日韩剧","欧美剧","惊悚片","犯罪片","冒险片","悬疑片","武侠片","少儿","奇幻片","其他片","其他剧"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
+    {"key":"360_spider","name":"📺360(解析)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"mang","name":"🍋芒guo(解析)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+    {"key":"so","name":"⚽搜gou(解析)","type":0,"api":"https://www.bajiezy.xyz/api.php/provide/vod/from/sohu/at/xml/","searchable":1,"quickSearch":1,"filterable":0,"categories":["国产剧","港台剧","日韩剧","欧美剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","惊悚片","犯罪片","冒险片","悬疑片","动画片","武侠片","奇幻片","综艺","动漫","少儿","其他片","其他剧"],"jar":"https://ftyyy.tk/jar/tim.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"},
     {
     "key": "csp_LibVio",
     "name": "🐞LibVio",
@@ -247,49 +233,12 @@
     "filterable": 1,
     "ext": "https://maydayxxx.github.io/TVBox/MaooXB/Bili.json"
     },
-    {"key": "csp_Yisou","name":"🐞易搜盘(SP)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
-    {"key": "csp_Gitcafe","name":"🐞阿里纸条(SP)","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9","jar":"https://github.com/heroaku/TVboxo/raw/main/Jar/91h.jar;md5;BD05DF7AFF8664BCDB7097B7D04A7FA9"},  
-    {"key": "csp_AliPS","name":"🐞阿里喵搜(SP)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"3a49cf29cf20410997247c6eb4509be9"},
-    {
-    "key": "AliPS",
-    "name": "🐞盘搜",
-    "type": 3,
-    "api": "csp_AliPanSou",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "dcbc975ad0684eb5a498ecd1836272e6"
-    },
-    {
-    "key": "Gitcafe",
-    "name": "🐞小纸条",
-    "type": 3,
-    "api": "csp_GitCafe",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "dcbc975ad0684eb5a498ecd1836272e6"
-    }, 
-    {
-    "key": "FindZY",
-    "name": "🐞找资源",
-    "type": 3,
-    "api": "csp_FindZY",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "dcbc975ad0684eb5a498ecd1836272e6"
-    },
-    {
-    "key": "push_agent",
-    "name": "🐞推送",
-    "type": 3,
-    "api": "csp_PushAgent",
-    "searchable": 0,
-    "quickSearch": 0,
-    "filterable": 0,
-    "ext": "3a49cf29cf20410997247c6eb4509be9"
-    },
+    {"key":"csp_GitCafe","name":"📜小纸条","type":3,"api":"csp_GitCafe","searchable":1,"quickSearch":1,"filterable":1,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+    {"key":"Yisou","name":"😺易搜+原画(搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+    {"key":"Zhaozy","name":"😺找资源+原画(搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+    {"key":"csp_Alips","name":"🐱喵搜(搜索)","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":0,"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"},
+    {"key": "AliPS","name": "🔍️盘搜〔SP〕","type": 3,"api": "csp_AliPS","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "28801b1dbaf4418fb7bc221a575703dd"},
+    {"key":"push_agent","name":"😺推送(爱优腾/云盘/磁力)","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"4acb3ad2f2254ba1b566279f7cd98ba3"},
     {
     "key": "酷猫",
     "name": "🐞酷猫",
@@ -313,10 +262,7 @@
     {"key": "csp_Blixs","name":"🥇相声小品","type": 3,"api": "csp_Blixs","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blidw","name":"🥇动物世界","type": 3,"api": "csp_Blidw","searchable": 1,"quickSearch": 1,"filterable": 1},
     {"key": "csp_Blixq","name":"🥇戏曲","type": 3,"api": "csp_Blixq","searchable": 1,"quickSearch": 1,"filterable": 1},
-    
-    {"key":"FindZY","name":"🎲找资源","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
-    {"key":"AliPS","name":"🎲 盘  搜","type":3,"api":"csp_AliPanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
-    {"key": "push_agent","name":"🚀 推  送","type":3,"api":"csp_PushAgent","searchable":0,"quickSearch":0,"filterable":0,"ext":"dcbc975ad0684eb5a498ecd1836272e6"},
+       
     {"key":"考拉直链","name":"🎍考拉直链","type":1,"api":"https://ikaola.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
     {"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://maydayxxx.github.io/TVBox/MaooXP/huya2.json"},
     {"key":"csp_biubiu_斗鱼","name":"🥒斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://maydayxxx.github.io/TVBox/MaooXB/斗鱼.json"},
