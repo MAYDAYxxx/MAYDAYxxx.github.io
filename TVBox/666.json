@@ -235,6 +235,15 @@
      "quickSearch": 1,
      "filterable": 0
     },
+    {
+    "key": "csp_剧荒",
+    "name": "剧荒TV",
+    "type": 3,
+    "api": "csp_Juhuang",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    },
     //{"key":"csp_QQ","name":" 🍅腾讯视频","type": 3,"api":"csp_QQ","jar":"https://maydayxxx.github.io/TVBox/MaooXP/tx.txt"},
     //{"key":"csp_IQIYI","name":"🥝爱奇艺","type":3,"api":"csp_IQIYI","jar":"https://maydayxxx.github.io/TVBox/MaooXP/iqiyi.txt"},
     //{"key":"csp_MGTV","name":"🍋芒果TV","type":3,"api":"csp_MGTV","jar":"https://maydayxxx.github.io/TVBox/MaooXP/mgtv.txt"},
