@@ -1,8 +1,8 @@
     {
-  "spider":"https://maydayxxx.github.io/TVBox/820.jar",
-  "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tYXlkYXl4eHguZ2l0aHViLmlvL1RWQm94LzY2Ni50eHQ="]}]}],
+    "spider":"https://maydayxxx.github.io/TVBox/820.jar",
+    "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tYXlkYXl4eHguZ2l0aHViLmlvL1RWQm94LzY2Ni50eHQ="]}]}],
 
-  "sites":[
+    "sites":[
     {
     "key": "csp_CZSPP",
     "name": "🐞厂长资源",
@@ -123,6 +123,15 @@
     "filterable": 1,
     "quickSearch": 1,
     "searchable": 1
+    },
+    {
+    "key": "csp_dd5555",
+    "name": "555影视",
+    "type": 3,
+    "api": "csp_Dy555",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
     },
     {
     "key": "快看影视",
