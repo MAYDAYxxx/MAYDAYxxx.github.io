@@ -1,20 +1,20 @@
   <?xml version="1.0" encoding="UTF-8" standalone="no"?>
   <Datasets><Dataset>
   <title>惠城区工程建设数据集</title>
-  <date>30-05-2021</date>
+  <date>31-03-2022</date>
   <dataEdition>第一版</dataEdition>
   <dataLang>CN;EN</dataLang>
   <idAbs>项目区包含农田防护与生态环境保持工程、土地平整工程、输排水工程、渠系建筑物工程及田间道路工程等。其中，农田防护与生态环境保持工程包括Ⅰ型护墙（规格：0.24*0.5m）共计3472m，Ⅱ型护墙（规格：0.3*2.0m）共计111m。土地平整工程包括工程430亩，其中表土剥离56891m3、表土回填56891m3、犁底层原土夯实284454m2、土地开挖31163m3、土方填筑29514m3。输排水工程包括主要包括修筑渠道总计236条，总长62663m。其中输水工程139条，长32184m：包括Ⅰ型农渠60条、长10863m；Ⅱ型农渠32条、长7731m；Ⅲ型农渠13条、长3494m；Ⅳ型农渠9条、长2200m；Ⅰ型斗渠11条、长2309m；Ⅱ型斗渠5条、长830m；Ⅰ型支渠4条、长1023m；Ⅱ型支渠1条、长251m；Ⅰ型干渠3条、长2388m。砼干渠加固1条、长1095m。排水工程62条，长15778m:包括Ⅰ型农沟7条、长1075m；Ⅱ型农沟8条、长2285m；Ⅲ型农沟8条、长1227m；Ⅰ型斗沟12条、长2589m；Ⅱ型斗沟1条、长164m；Ⅰ型支沟10条、长2238m；Ⅱ型支沟2条、长617m；Ⅰ型干沟3条、长996m；Ⅲ型干沟3条、长880m；Ⅳ型干沟1条、长236m；Ⅴ型干沟4条、长1565m；Ⅵ型干沟2条、长936m；生态沟1条，长970m。灌排渠工程33条，长14315m:包括Ⅰ型农灌排4条、长1563m；Ⅲ型农灌排6条、长2191m；Ⅳ型农灌排12条、长5968m；Ⅰ型斗灌排4条、长1989m；Ⅱ型斗灌排7条、长2604m。DN300波纹管1条，长386m。渠系建筑物工程包括水闸515座，下田板1470座，出水口57个，进水口55个，过路板涵36座。田间道路工程共26条，总长10323m，包括2.5m生产路Ⅱ共计7条，长2338m； 3m田间道I共计7条、总长2023m；3m田间道Ⅱ共计3条、总长1422m；4m田间道I共计2条、总长618m；4m田间道Ⅱ共计2条、总长684m；4m砼田间道I共计2条、总长1751m；5m砼田间道I共计2条、总长1210m，5m砼田间道Ⅱ共计1条、总长277m；田埂修筑4085m。</idAbs>
   <status>001</status>
-  <starting>02-03-2021</starting>
-  <ending>30-05-2021</ending>
-  <rpOrgName>广东经纬工程咨询设计有限公司</rpOrgName>
-  <rpCnt>林文迪</rpCnt>
-  <voiceNum>13392695830</voiceNum>
-  <faxNum>020-38376833</faxNum>
-  <cntAddress>广东省广州市越秀区环市中路301、303号十楼自编1003室、1006室</cntAddress>
-  <cntCode>510030</cntCode>
-  <cntEmail>gdjcc@126.com</cntEmail>
+  <starting>02-11-2021</starting>
+  <ending>31-03-2021</ending>
+  <rpOrgName>广东高丰建设工程有限公司</rpOrgName>
+  <rpCnt>陈景锋</rpCnt>
+  <voiceNum>15917757499</voiceNum>
+  <faxNum>0752-2588323</faxNum>
+  <cntAddress>惠州市惠城区下埔北六街1号3栋202室</cntAddress>
+  <cntCode>516001</cntCode>
+  <cntEmail>122802887@1qq.com</cntEmail>
   <dqStatement>数据集质量的定性和定量的概括说明</dqStatement>
   <dqLineage>从数据源到数据集现状的演变过程的说明</dqLineage>
   <coorRSID>001</coorRSID>
@@ -30,15 +30,15 @@
   <dataLang>CN;EN</dataLang>
   <idAbs>本数据集包括横沥镇岭下村、翟村村、福园村、水东村、墨园村、天罡村、莲塘村、蓝村村、新村村、排沙村、横星村、马坌村、森柏洞村、大陂头村、周公堂村共15个行政村</idAbs>
   <status>001</status>
-  <starting>02-03-2021</starting>
-  <ending>30-05-2021</ending>
-  <rpOrgName>广东经纬工程咨询设计有限公司</rpOrgName>
-  <rpCnt>林文迪</rpCnt>
-  <voiceNum>13392695830</voiceNum>
-  <faxNum>020-38376833</faxNum>
-  <cntAddress>广东省广州市越秀区环市中路301、303号十楼自编1003室、1006室</cntAddress>
-  <cntCode>510030</cntCode>
-  <cntEmail>gdjcc@126.com</cntEmail>
+  <starting>01-11-2021</starting>
+  <ending>31-03-2021</ending>
+  <rpOrgName>广东高丰建设工程有限公司</rpOrgName>
+  <rpCnt>陈景锋</rpCnt>
+  <voiceNum>15917757499</voiceNum>
+  <faxNum>0752-2588323</faxNum>
+  <cntAddress>惠州市惠城区下埔北六街1号3栋202室</cntAddress>
+  <cntCode>516001</cntCode>
+  <cntEmail>122802887@1qq.com</cntEmail>
   <dqStatement>数据集质量的定性和定量的概括说明</dqStatement>
   <dqLineage>从数据源到数据集现状的演变过程的说明</dqLineage>
   <coorRSID>001</coorRSID>
