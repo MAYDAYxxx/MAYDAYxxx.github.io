@@ -45,26 +45,15 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":0,
-    "ext": "file://XYQ/lyys.json"
-    },
-    {
-    "key": "bdys",
-    "name": "哔嘀(磁力测试)",
-    "type": 3,
-    "api": "csp_XPbd",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-    "ext": "https://maydayxxx.github.io/TVBox/MaooXP/Bdys.json"
-    },
-    {
-    "key": "Nfyun",
-    "name": "Nf云",
-    "type": 3,
-    "api": "csp_Nfyun",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1
+    "ext": "https://maydayxxx.github.io/TVBox/MaooXB/lyys(xyq).json"
+    },{
+    "key": "csp_XYQBiu_凌云影视",
+    "name": "凌云影视(韩)",
+    "type":3,"api": "csp_XYQBiu",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":0,
+    "ext": "https://maydayxxx.github.io/TVBox/MaooXB/凌云视频韩国.json"
     },
     {
     "key": "KanSJ_spider",
@@ -94,7 +83,7 @@
     "searchable":1,
     "quickSearch":1,
     "filterable":1,
-    "ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"},
+    "ext":"https://maydayxxx.github.io/TVBox/MaooXB/音范丝.json"},
     {
     "key": "293视频",
     "name": "🐞293视频",
@@ -261,6 +250,25 @@
      "searchable": 1,
      "quickSearch": 1,
      "filterable": 0
+    },
+    {
+    "key": "bdys",
+    "name": "哔嘀(磁力测试)",
+    "type": 3,
+    "api": "csp_XPbd",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1,
+    "ext": "https://maydayxxx.github.io/TVBox/MaooXP/Bdys.json"
+    },
+    {
+    "key": "Nfyun",
+    "name": "Nf云",
+    "type": 3,
+    "api": "csp_Nfyun",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
     },
     {
     "key": "csp_剧荒",
