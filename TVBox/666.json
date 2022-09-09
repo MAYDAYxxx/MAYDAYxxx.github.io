@@ -241,16 +241,16 @@
     "searchable": 0,
     "quickSearch": 0,
     "filterable": 1,
-    "ext": "https://maydayxxx.github.io/TVBox/MaooXB/Bili.json"
+    "ext": "https://maydayxxx.github.io/TVBox/MaooXB/bilibili.json"
     },
     { 
-     "key": "t4public",
-     "name":"T4公共",
-     "type": 4,
-     "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 0
+    "key": "t4public",
+    "name":"T4公共",
+    "type": 4,
+    "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 0
     },
     {
     "key": "bdys",
