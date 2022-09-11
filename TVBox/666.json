@@ -245,9 +245,9 @@
     },
     { 
     "key": "t4public",
-    "name":"T4公共",
+    "name":"T4(自建)",
     "type": 4,
-    "api":"https://192.168.5.1/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
+    "api":"https://192.168.5.1:8080/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
     "searchable": 1,
     "quickSearch": 1,
     "filterable": 0
