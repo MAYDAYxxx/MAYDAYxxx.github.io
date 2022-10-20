@@ -3,6 +3,14 @@
     "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tYXlkYXl4eHguZ2l0aHViLmlvL1RWQm94LzY2Ni50eHQ="]}]}],
 
     "sites":[
+     {
+      "key": "AList",
+      "name": "AList",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "ext": "https://maydayxxx.github.io/TVBox/Alist.json"
+    },
     {
     "key": "csp_CZSPP",
     "name": "🐞厂长资源",
