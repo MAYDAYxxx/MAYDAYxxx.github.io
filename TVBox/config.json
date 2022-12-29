@@ -1,11 +1,11 @@
 {
-  "spider": "https://gitee.com/aaaay22/hyy/raw/master/TV/JAR/custom_spider_new.jar",
+  "spider": "https://maydayxxx.github.io/TVBox/custom_spider_new.jar",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "name": "直播",
       "type": 0,
-      "url": "https://gitee.com/aaaay22/hyy/raw/master/TV/IPTV.m3u8",
+      "url": "https://maydayxxx.github.io/TVBox/IPTV.m3u8",
       "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
     }
   ],
