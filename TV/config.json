@@ -5,7 +5,7 @@
     {
       "name": "直播",
       "type": 0,
-      "url": "http://home.jundie.top:81/Cat/tv/live.txt",
+      "url": "https://maydayxxx.github.io/TV/IPTV.m3u8",
       "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     },
