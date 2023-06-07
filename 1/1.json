@@ -1,6 +1,6 @@
 {
     "spider":"https://maydayxxx.github.io/1/jar.jar",
-    "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=https://maydayxxx.github.io/1/bsetv.m3u"]}]}],
+    "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9tYXlkYXl4eHguZ2l0aHViLmlvLzEvYnNldHYubTN1"]}]}],
     "sites":[
     {"key":"AList","name": "AList",
      "type": "3","api":"csp_AList","searchable":"1",
